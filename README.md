@@ -1,7 +1,7 @@
-5 floor lift:
-170070021 - Parth Shettiwar
-170070011- Parth Patil
-17D070034 - Ayushraj Mehrotra
+5 floor lift:<br />
+170070021 - Parth Shettiwar <br />
+170070011- Parth Patil <br />
+17D070034 - Ayushraj Mehrotra <br />
 
 Input form:For every floor up and down buttons are there and inside the lift there are 5 buttons for going to a particular floor.
 
